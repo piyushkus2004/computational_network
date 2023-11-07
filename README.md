@@ -1,5 +1,5 @@
 # computational_network
-# distribution-#  COMPUTATION 💻  
+COMPUTATION 💻  
 1.**CPU**- A CPU (Central Processing Unit) is the most important component of a computer.It performs all types of data processing operations, including:  
 
   - Arithmetic
@@ -106,17 +106,15 @@ RAID is used for:
 - Collect, process, and store data
 - Distribute and enable access to resources
   
-5.**HCL**-HCL stands for Hindustan Computers Limited. HCL is an Indian multinational IT services and consulting company.HCL offers data center solutions, including: Modernization, Platform tech refresh, Datacenter consolidation, Datacenter migration, Hybrid cloud.  
+5.**Hyperscale Data Center**-A hyperscale data center is a large facility that houses critical compute and network infrastructure. These facilities are designed to support robust and scalable workloads.They are often associated with large companies that require vast data processing and storage requirements, such as: Google, Amazon, Microsoft, Facebook, Apple.Hyperscale data centers typically house 5,000 or more servers.  
 
-6.**Hyperscale Data Center**-A hyperscale data center is a large facility that houses critical compute and network infrastructure. These facilities are designed to support robust and scalable workloads.They are often associated with large companies that require vast data processing and storage requirements, such as: Google, Amazon, Microsoft, Facebook, Apple.Hyperscale data centers typically house 5,000 or more servers.  
-
-7.**Public Data centers**-A public data center is a facility that provides shared access to applications and data using a complex network, compute, and storage infrastructure.Some of the most reliable colocation data center companies are:   
+6.**Public Data centers**-A public data center is a facility that provides shared access to applications and data using a complex network, compute, and storage infrastructure.Some of the most reliable colocation data center companies are:   
 
 - QTS Realty Trust Inc (NYSE: QTS)
 - Digital Realty (NYSE: DLR)
 - Equinix (NASDAQ)
 
-8.**NFS**-NFS stands for Network File System. It is a file system mechanism that allows users to store and retrieve data from multiple disks and directories across a shared network. NFS is a distributed file system protocol that allows users to access files and directories located on remote computers and treat those files and directories as if they were local. 
+7.**NFS**-NFS stands for Network File System. It is a file system mechanism that allows users to store and retrieve data from multiple disks and directories across a shared network. NFS is a distributed file system protocol that allows users to access files and directories located on remote computers and treat those files and directories as if they were local. 
 
 
 # NETWORK
@@ -179,7 +177,9 @@ RAID is used for:
 
 21.**Client to site VPN**-A client-to-site VPN (Virtual Private Network) is a type of VPN that connects a single device, such as a laptop or smartphone, to a remote network, such as a corporate or cloud network. 
 
+# Container Cluster Mananger #
 
+**
 ## KEYWORDS   
 1.**VCS**-A version control system (VCS) is software that tracks changes to a file or set of files over time. VCSs are used in software development, where a team of people may concurrently make changes to the same files.  
 VCSs help developers: 
